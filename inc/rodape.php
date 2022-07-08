@@ -17,14 +17,14 @@
                 </ul>
             </div>
             <!-- /DESTAQUES -->
-            <!-- CINEMAS -->
+            <!-- Lojas -->
             <div class="col-6 col-lg-2 mb-3">
                 <h5>Lojas</h5>
                 <ul class="list-unstyled">
-                    <li class="mb-2"><a href="#">Loja 1</a></li>
+                    <li class="mb-2"><a href="#">Loja</a></li>
                 </ul>
             </div>
-            <!-- /CINEMAS -->
+            <!-- /Lojas -->
             <!-- DÚVIDAS -->
             <div class="col-6 col-lg-2 mb-3">
                 <h5>Dúvidas</h5>
