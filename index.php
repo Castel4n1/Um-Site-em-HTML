@@ -44,10 +44,11 @@
             &nbsp;
             <!-- Slogan -->
             <div class="row mrg-bt-lg bg-green-l pd-lg pos-relative">
-                <div class="col s12 m8 offset-m2 center-align">
-                    <p class="clr-housegreen">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed odio voluptas quos quisquam, dignissimos assumenda expedita quas nulla doloremque vel, voluptate debitis veniam, ab magnam nostrum. Repudiandae aliquam libero voluptatum.</p>
+                <div class="col s12 m8 offset-m2 center-align text-center">
+                    <p class="clr-housegreen">Saúde não só aqui, mas em todo nosso site.</p>
                 </div>
             </div>
+            <p></p>
             <!-- Slogan -->
             <!-- Produtos Comercializados -->
             <div class="row">
@@ -68,29 +69,53 @@
             </div>
             <!-- /Produtos Comercializados -->
             &nbsp;
-
-            <!-- Nossos Serviços -->
-            <div class="row">
-                <div class="col-md-6">
-                    <img src="#" alt="imagem a ser processada">
+            <!-- P PROVISÓRIO -->
+            <p>.</p>    
+            <p>.</p>
+            <!-- Nossos Serviços 
+            // LOREM MAIOR -->
+            <div class="row mrg-bt-lg bg-green-l pd-lg pos-relative">
+                <div class="row">
+                    <div class="row">
+                        <div class="col-md-6 text-center pd-center">
+                            <h1>Lorem</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
+                        </div>
+                        <div class="col-md-6">
+                            <img src="img/teste1.jpg" alt="imagem a ser processada" width="685">
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md-6">
-                    <h1>Lorem</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
+
+                <!-- 
+                //SERVIÇOS -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="img/featured-drinks.jpg" alt="imagem a ser processada" width="638">
+                    </div>
+
+                    <div class="col-md-6 text-center">
+                        <h1>Serviços</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
+                    </div>
+                </div>
+                <p></p>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>TESTE</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
+                    </div>
+                    <div class="col-6">
+                        <img src="img/text2.jpg" width="670">
+                    </div>
                 </div>
             </div>
-            &nbsp;
-            <div class="row">
-                <div class="col-md-6">
-                    <h1>Lorem</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
-                </div>
-                <div class="col-md-6">
-                    <img src="#" alt="imagem a ser processada">
-                </div>
-            </div>
-
             <!-- /Nossos Serviços -->
+            <div class="col s12 l6 no-pd cs-img">
+                <img alt="Featured drinks example" class="img-responsive" src="img/partners.jpg" width="1320">
+            </div>
+
         </div>
         <!-- /CONTEÚDO -->
 
