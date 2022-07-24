@@ -130,5 +130,4 @@
 <!-- JS -->
 <?php include_once('inc/js.php'); ?>
 <!-- /JS -->
-
 </html>
