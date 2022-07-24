@@ -7,21 +7,21 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Produtos</a>
+                    <a class="nav-link active" aria-current="page" href="produto.php">Produtos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Sobre</a>
+                    <a class="nav-link active" aria-current="page" href="sobre.php">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Contato</a>
+                    <a class="nav-link active" aria-current="page" href="contato.php">Contato</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Lojas
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Santo André</a></li>
-                        <li><a class="dropdown-item" href="#">Represa</a></li>
+                        <li><a class="dropdown-item" href="santoandre.php">Santo André</a></li>
+                        <li><a class="dropdown-item" href="sobre.php">Represa</a></li>
                     </ul>
                 </li>
             </ul>
