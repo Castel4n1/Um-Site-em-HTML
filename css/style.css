@@ -50,3 +50,10 @@ p{
 .center-align {
     text-align: center;
 }
+.carousel-inner{
+    display: block;
+    width: 100%;
+}
+div {
+    display: block;
+}
