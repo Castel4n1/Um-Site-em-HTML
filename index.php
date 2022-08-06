@@ -40,38 +40,19 @@
                     <span class="visually-hidden">Proximo</span>
                 </button>
             </div>
+            ::after
             <!-- /Carrousel -->
             &nbsp;
             <!-- Slogan -->
             <div class="row mrg-bt-lg bg-green-l pd-lg pos-relative">
-                <div class="col s12 m8 offset-m2 center-align text-center">
+                <div class="col s12 m8 offset-m2 center-align">
                     <p class="clr-housegreen">Saúde não só aqui, mas em todo nosso site.</p>
+                    <a href="#" class="btn btn-success bp-housegreen mrg-tp-lg">Saiba Mais</a>
                 </div>
             </div>
-            <p></p>
+            ::after
             <!-- Slogan -->
-            <!-- Produtos Comercializados -->
-            <div class="row">
-                <div class="col-6 text-center">
-                    <div class="col s12 l6 cs-text">
-                        <div class="cs-inner">
-                            <h1>Nosso Seguimento</h1>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus est repellendus exercitationem temporibus quaerat odio dolorem tempore, officiis culpa accusamus quae dolores nisi nulla illo recusandae molestias ex laudantium itaque.</p>
-                            <a href="#" class="btn btn-success">Baixe nosso App e verifique as lojas em funcionamento</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 text-center">
-                    <h1>Mais?</h1>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus placeat accusantium animi cupiditate iste eos nemo officia fugit recusandae soluta! Totam, laboriosam accusantium porro ipsam aliquid sequi labore laudantium possimus?</p>
-                    <a href="#" class="btn btn-success">Para ver mais Sobre nós</a>
-                </div>
-            </div>
-            <!-- /Produtos Comercializados -->
             &nbsp;
-            <!-- P PROVISÓRIO -->
-            <p>.</p>    
-            <p>.</p>
             <!-- Nossos Serviços 
             // LOREM MAIOR -->
             <div class="row mrg-bt-lg bg-green-l pd-lg pos-relative">
@@ -86,9 +67,10 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- 
-                //SERVIÇOS -->
+            </div>
+            ::after
+                <!--//SERVIÇOS -->
+            <div class="row mrg-bt-lg content-sec bg-green-l">
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/featured-drinks.jpg" alt="imagem a ser processada" width="638">
@@ -99,8 +81,9 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, saepe magni provident deserunt sequi similique asperiores necessitatibus quaerat adipisci, dolores laboriosam? Placeat sapiente libero nemo magnam qui vel laudantium sunt?</p>
                     </div>
                 </div>
-                <p></p>
-
+            </div>
+            ::after
+            <div class="row mrg-bt-lg content-sec bg-green-l">
                 <div class="row">
                     <div class="col-md-6">
                         <h1>TESTE</h1>
@@ -112,10 +95,6 @@
                 </div>
             </div>
             <!-- /Nossos Serviços -->
-            <div class="col s12 l6 no-pd cs-img">
-                <img alt="Featured drinks example" class="img-responsive" src="img/partners.jpg" width="1320">
-            </div>
-
         </div>
         <!-- /CONTEÚDO -->
 

@@ -1,3 +1,52 @@
-.h1, h1 {
-    color: blue;
+.pos-relative {
+    position: relative;
+}
+.pd-lg{
+    padding: 3.2rem 4.8rem;
+}
+.mrg-bt-lg{
+    margin-bottom: 3.2rem !important;
+}
+.bg-green-l{
+    background-color: #94ccb9 !important;
+}
+.row{
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    color: #32312d;
+    font-weight: 400;
+    font-size: 1.4rem;
+    font-family: 'SoDo Sans',Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    overflow: auto !important;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+::-webkit-scrollbar-track{
+    background: #33433d;
+}
+.clr-housegreen{
+    color:#1e3932 !important;
+}
+section p {
+    font-size: 1.8rem;
+    line-height: 1.75;
+    margin: 0;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.center-align {
+    text-align: center;
 }
