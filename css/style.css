@@ -47,7 +47,7 @@ p{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-.center-align {
+.center, .center-align {
     text-align: center;
 }
 .carousel-inner{
